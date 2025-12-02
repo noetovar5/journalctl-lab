@@ -4,11 +4,11 @@
 # 🔧 Journalctl Troubleshooting Lab  
 *A Hands-On Linux Logging & Outage Response Tutorial by Noe Tovar-MBA*
 
-![Linux](https://img.shields.io/badge/Linux-22%2B-blue?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnu-bash)
-![WSL](https://img.shields.io/badge/WSL-Ubuntu-orange?style=for-the-badge&logo=microsoft)
-![systemd](https://img.shields.io/badge/systemd-Logging-blue?style=for-the-badge&logo=systemd)
-![Tutorial](https://img.shields.io/badge/Tutorial-Hands--On-red?style=for-the-badge)
+[Linux](https://img.shields.io/badge/Linux-22%2B-blue?style=for-the-badge&logo=linux)
+[Bash](https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnu-bash)
+[WSL](https://img.shields.io/badge/WSL-Ubuntu-orange?style=for-the-badge&logo=microsoft)
+[systemd](https://img.shields.io/badge/systemd-Logging-blue?style=for-the-badge&logo=systemd)
+[Tutorial](https://img.shields.io/badge/Tutorial-Hands--On-red?style=for-the-badge)
 
 ---
 
