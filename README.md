@@ -27,7 +27,7 @@ I built this lab so you can safely practice real outage scenarios without touchi
 
 ---
 
-## 🧪 Lab Contents
+##  Lab Contents
 
 ```
 
@@ -154,7 +154,7 @@ View the `exercises.txt` file for hands-on challenges such as:
 
 **Noe Tovar – MBA**
 Systems Administrator | Linux Enthusiast | IT Trainer
-[https://noe.noetovar.com/)
+https://noe.noetovar.com/
 
 ---
 
