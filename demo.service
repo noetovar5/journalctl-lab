@@ -1,0 +1,11 @@
+[Unit]
+Description=Demo Practice Service
+After=network.target
+
+[Service]
+ExecStart=/opt/demo-service/demo.sh
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target

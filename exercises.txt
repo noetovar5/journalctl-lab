@@ -1,0 +1,4 @@
+Exercises:
+1. journalctl -u demo.service -n 50
+2. journalctl -u demo.service -p err --since "1 hour ago"
+3. journalctl -b -1 -u demo.service
