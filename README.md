@@ -154,7 +154,7 @@ View the `exercises.txt` file for hands-on challenges such as:
 
 **Noe Tovar – MBA**
 Systems Administrator | Linux Enthusiast | IT Trainer
-[www.noetovar.com](http://www.noetovar.com)
+[https://noe.noetovar.com/)
 
 ---
 
